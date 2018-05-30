@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="euro">Euro (EUR)</string>
+    <string name="canadian">Canadian (CAD)</string>
+    <string name="clear">Clear All</string>
+    <string name="resultText">Result: </string>
+    <string name="resultNum"></string>
+    <string name="eur"> EUR</string>
+    <string name="cad"> CAD</string>
+</resources>
